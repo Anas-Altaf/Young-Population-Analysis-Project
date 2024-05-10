@@ -27,7 +27,7 @@ class YoungPopulationApp(QWidget):
         # StyleSheet
         button_style = """
         QPushButton {
-        background-color: lightblue;
+        background-color: #3498db;
         border: 2px solid #3498db;
         border-radius: 2px;
         color: white;
