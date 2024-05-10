@@ -29,7 +29,7 @@ class YoungPopulationApp(QWidget):
         QPushButton {
         background-color: #3498db;
         border: 2px solid #3498db;
-        border-radius: 2px;
+        border-radius: 15px;
         color: white;
         padding: 5px 10px;
         font-size: 16px;
